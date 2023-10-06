@@ -52,7 +52,6 @@
 - Flutter framework with MVC and Provider architecture
 
 ## Project Output :
-[![Watch the video]
 https://github.com/MeetPatel510/Galaxy_Planets_Flutter_App/assets/124903131/a5162584-b0ce-4f7b-964a-97ae3d369dc4
 
 
